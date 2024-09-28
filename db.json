@@ -47,54 +47,5 @@
     "title": "Drink water",
     "completed": false,
     "deadline": "2024-06-19T00:00:00.000Z"
-  },
-  {
-    "associatedUsers": [
-      4
-    ],
-    "id": 6,
-    "title": "5 minutes break",
-    "completed": true,
-    "deadline": "2025-01-19T00:00:00.000Z"
-  },
-  {
-    "associatedUsers": [
-      4,
-      5
-    ],
-    "id": 7,
-    "title": "Fill in forms",
-    "completed": true,
-    "deadline": "2023-12-03T00:00:00.000Z"
-  },
-  {
-    "associatedUsers": [
-      5
-    ],
-    "id": 8,
-    "title": "Get a coffee",
-    "completed": false,
-    "deadline": "2024-05-19T00:00:00.000Z"
-  },
-  {
-    "associatedUsers": [
-      1,
-      4,
-      5
-    ],
-    "id": 9,
-    "title": "Generate invoices",
-    "completed": true,
-    "deadline": "2024-12-24T00:00:00.000Z"
-  },
-  {
-    "associatedUsers": [
-      1,
-      5
-    ],
-    "id": 10,
-    "title": "Pay bills",
-    "completed": false,
-    "deadline": "2024-05-19T00:00:00.000Z"
   }
 ]
